@@ -11,8 +11,3 @@ This project is a beginner-friendly login and signup user interface built using 
 - 📦 Fast bundling with Vite
 - 🔁 Page routing using React Router
 - 🧼 Clean, responsive design using plain CSS
-
----
-
-## 📂 Folder Structure
-
